@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'nokogiri', '~> 1.8', '>= 1.8.2'
   s.add_runtime_dependency 'rubyzip','~> 1.2', '>= 1.2.1'
   s.add_runtime_dependency "htmlentities", "~> 4.3", '>= 4.3.4'
-  s.add_runtime_dependency "mimemagic", '>= 0.4.5'
+  s.add_runtime_dependency "mimemagic", '>= 0.4.3'
 
   s.add_development_dependency 'yard', "~> 0.9.8"
   s.add_development_dependency 'kramdown', '~> 1.16', '>= 1.16.2'
